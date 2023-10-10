@@ -1,0 +1,5 @@
+n1 = int(input("Digite um número:"))
+print("-"*20)
+print("O dobro de {} é {};".format(n1,n1*2))
+print("E o triplo de {} é {}.".format(n1,n1*3))
+print("-"*20)
